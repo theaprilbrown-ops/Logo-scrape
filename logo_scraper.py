@@ -4,7 +4,7 @@ logo_scraper.py
 Scrapes logos for a list of organizations.
 
 SETUP:
-  pip install requests beautifulsoup4 Pillow
+  pip install -r requirements.txt
 
 USAGE:
   1. Edit DOMAIN_MAP below if you know an org's exact domain.
